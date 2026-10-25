@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Ali Kaya from Istanbul
+- 👀 I’m interested in Java, Js, Selenium, Appium, Jenkins and Docker
+- 🌱 I’m currently learning Playwright
+- 💞️ I’m looking to collaborate on software automation testing
